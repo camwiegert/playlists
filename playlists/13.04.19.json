@@ -1,0 +1,85 @@
+{
+    "name": "13.04.19",
+    "tracks": [
+        {
+            "name": "Revolution 909",
+            "album": "Homework",
+            "artists": [
+                "Daft Punk"
+            ]
+        },
+        {
+            "name": "DARE",
+            "album": "Demon Days",
+            "artists": [
+                "Gorillaz",
+                "Shaun Ryder"
+            ]
+        },
+        {
+            "name": "Baby's on Fire",
+            "album": "Ten$ion",
+            "artists": [
+                "Die Antwoord"
+            ]
+        },
+        {
+            "name": "Crimewave",
+            "album": "Crystal Castles",
+            "artists": [
+                "Crystal Castles"
+            ]
+        },
+        {
+            "name": "Live At Dominoes",
+            "album": "Since I Left You",
+            "artists": [
+                "The Avalanches"
+            ]
+        },
+        {
+            "name": "Cos-Ber-Zam Ne Noya (Daphni Mix)",
+            "album": "Jiaolong",
+            "artists": [
+                "Daphni"
+            ]
+        },
+        {
+            "name": "Get Lucky - Radio Edit",
+            "album": "Get Lucky (Radio Edit)",
+            "artists": [
+                "Daft Punk",
+                "Pharrell Williams",
+                "Nile Rodgers"
+            ]
+        },
+        {
+            "name": "Mein neues Fahrrad - Boys Noize Edit",
+            "album": "Diskoding",
+            "artists": [
+                "Siriusmo"
+            ]
+        },
+        {
+            "name": "Boy From School",
+            "album": "The Warning",
+            "artists": [
+                "Hot Chip"
+            ]
+        },
+        {
+            "name": "Echoes",
+            "album": "Echoes",
+            "artists": [
+                "The Rapture"
+            ]
+        },
+        {
+            "name": "On Repeat",
+            "album": "LCD Soundsystem",
+            "artists": [
+                "LCD Soundsystem"
+            ]
+        }
+    ]
+}

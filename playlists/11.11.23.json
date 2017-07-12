@@ -1,0 +1,54 @@
+{
+    "name": "11.11.23",
+    "tracks": [
+        {
+            "name": "Moanin' At Midnight",
+            "album": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+            "artists": [
+                "Howlin' Wolf"
+            ]
+        },
+        {
+            "name": "Nightclubbing",
+            "album": "The Idiot",
+            "artists": [
+                "Iggy Pop"
+            ]
+        },
+        {
+            "name": "1969",
+            "album": "The Stooges",
+            "artists": [
+                "The Stooges"
+            ]
+        },
+        {
+            "name": "Big In Japan",
+            "album": "Mule Variations",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "Buick Mackane",
+            "album": "Ty Rex",
+            "artists": [
+                "Ty Segall"
+            ]
+        },
+        {
+            "name": "Satellite of Love",
+            "album": "Transformer",
+            "artists": [
+                "Lou Reed"
+            ]
+        },
+        {
+            "name": "The Motivator",
+            "album": "Electric Warrior",
+            "artists": [
+                "T. Rex"
+            ]
+        }
+    ]
+}

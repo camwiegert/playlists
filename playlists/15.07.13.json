@@ -1,0 +1,82 @@
+{
+    "name": "15.07.13",
+    "tracks": [
+        {
+            "name": "Disciples",
+            "album": "Disciples",
+            "artists": [
+                "Tame Impala"
+            ]
+        },
+        {
+            "name": "Snakeskin",
+            "album": "Snakeskin",
+            "artists": [
+                "Deerhunter"
+            ]
+        },
+        {
+            "name": "Sea Calls Me Home",
+            "album": "Sea Calls Me Home",
+            "artists": [
+                "Julia Holter"
+            ]
+        },
+        {
+            "name": "Sparks",
+            "album": "Sparks",
+            "artists": [
+                "Beach House"
+            ]
+        },
+        {
+            "name": "Some Time Alone, Alone",
+            "album": "Melody's Echo Chamber",
+            "artists": [
+                "Melody's Echo Chamber"
+            ]
+        },
+        {
+            "name": "The Less I Know The Better",
+            "album": "Currents",
+            "artists": [
+                "Tame Impala"
+            ]
+        },
+        {
+            "name": "Haunted By You",
+            "album": "The Chase",
+            "artists": [
+                "Future Islands"
+            ]
+        },
+        {
+            "name": "Feel You",
+            "album": "Feel You",
+            "artists": [
+                "Julia Holter"
+            ]
+        },
+        {
+            "name": "Put Your Number In My Phone",
+            "album": "pom pom",
+            "artists": [
+                "Ariel Pink"
+            ]
+        },
+        {
+            "name": "Jesus Fever",
+            "album": "Smoke Ring For My Halo",
+            "artists": [
+                "Kurt Vile"
+            ]
+        },
+        {
+            "name": "Sad Fuzz",
+            "album": "Melted",
+            "artists": [
+                "Ty Segall"
+            ]
+        }
+    ]
+}

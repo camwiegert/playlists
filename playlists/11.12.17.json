@@ -1,0 +1,61 @@
+{
+    "name": "11.12.17",
+    "tracks": [
+        {
+            "name": "Heavy Air",
+            "album": "Pleasure",
+            "artists": [
+                "Pure X"
+            ]
+        },
+        {
+            "name": "All Die Young",
+            "album": "Dye It Blonde",
+            "artists": [
+                "Smith Westerns"
+            ]
+        },
+        {
+            "name": "Portrait In Black and Blue",
+            "album": "King Krule",
+            "artists": [
+                "King Krule"
+            ]
+        },
+        {
+            "name": "Should Have",
+            "album": "Cloud Nothings",
+            "artists": [
+                "Cloud Nothings"
+            ]
+        },
+        {
+            "name": "Senorita",
+            "album": "Splazsh",
+            "artists": [
+                "Actress"
+            ]
+        },
+        {
+            "name": "Sleeper Hold",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Alex",
+            "album": "Father, Son, Holy Ghost",
+            "artists": [
+                "Girls"
+            ]
+        },
+        {
+            "name": "Pencil Pimp",
+            "album": "Sepalcure",
+            "artists": [
+                "Sepalcure"
+            ]
+        }
+    ]
+}

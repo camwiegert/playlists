@@ -1,0 +1,110 @@
+{
+    "name": "16.12.01",
+    "tracks": [
+        {
+            "name": "Silver Spring",
+            "album": "Sports",
+            "artists": [
+                "Speedy Ortiz"
+            ]
+        },
+        {
+            "name": "Never Stops",
+            "album": "Microcastle",
+            "artists": [
+                "Deerhunter"
+            ]
+        },
+        {
+            "name": "Something Soon",
+            "album": "Teens of Style",
+            "artists": [
+                "Car Seat Headrest"
+            ]
+        },
+        {
+            "name": "I Follow You",
+            "album": "Melody's Echo Chamber",
+            "artists": [
+                "Melody's Echo Chamber"
+            ]
+        },
+        {
+            "name": "The Graduates",
+            "album": "Foil Deer",
+            "artists": [
+                "Speedy Ortiz"
+            ]
+        },
+        {
+            "name": "Cappo",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Habit",
+            "album": "More Than Any Other Day",
+            "artists": [
+                "Ought"
+            ]
+        },
+        {
+            "name": "Coalition",
+            "album": "You're Nothing",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "Careers In Combat",
+            "album": "Light Up Gold",
+            "artists": [
+                "Parquet Courts"
+            ]
+        },
+        {
+            "name": "…And the Hazy Sea",
+            "album": "Why There Are Mountains",
+            "artists": [
+                "Cymbals Eat Guitars"
+            ]
+        },
+        {
+            "name": "Dust in the Gold Sack",
+            "album": "Surfing Strange",
+            "artists": [
+                "Swearin'"
+            ]
+        },
+        {
+            "name": "You’re Nothing",
+            "album": "You're Nothing",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "Tiger Tank",
+            "album": "Major Arcana",
+            "artists": [
+                "Speedy Ortiz"
+            ]
+        },
+        {
+            "name": "Hazel St",
+            "album": "Cryptograms",
+            "artists": [
+                "Deerhunter"
+            ]
+        },
+        {
+            "name": "Outside",
+            "album": "Human Performance",
+            "artists": [
+                "Parquet Courts"
+            ]
+        }
+    ]
+}

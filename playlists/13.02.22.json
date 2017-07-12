@@ -1,0 +1,75 @@
+{
+    "name": "13.02.22",
+    "tracks": [
+        {
+            "name": "Song for America",
+            "album": "Kaputt",
+            "artists": [
+                "Destroyer"
+            ]
+        },
+        {
+            "name": "Avery Island / April 1st",
+            "album": "On Avery Island",
+            "artists": [
+                "Neutral Milk Hotel"
+            ]
+        },
+        {
+            "name": "The Last Living Rose",
+            "album": "Let England Shake",
+            "artists": [
+                "PJ Harvey"
+            ]
+        },
+        {
+            "name": "September Gurls",
+            "album": "#1 Record/Radio City",
+            "artists": [
+                "Big Star"
+            ]
+        },
+        {
+            "name": "Green Grass",
+            "album": "Real Gone",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "Make It Known",
+            "album": "Take The Kids Off Broadway",
+            "artists": [
+                "Foxygen"
+            ]
+        },
+        {
+            "name": "Ode To Viceroy",
+            "album": "2",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Please Do Not Go - 2002 Remastered Version",
+            "album": "Violent Femmes",
+            "artists": [
+                "Violent Femmes"
+            ]
+        },
+        {
+            "name": "Girlfriend",
+            "album": "The Modern Lovers",
+            "artists": [
+                "The Modern Lovers"
+            ]
+        },
+        {
+            "name": "Impossible Germany",
+            "album": "Sky Blue Sky",
+            "artists": [
+                "Wilco"
+            ]
+        }
+    ]
+}

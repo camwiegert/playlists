@@ -1,0 +1,76 @@
+{
+    "name": "12.06.14",
+    "tracks": [
+        {
+            "name": "Atomic Bongos",
+            "album": "Queen Of Siam",
+            "artists": [
+                "Lydia Lunch"
+            ]
+        },
+        {
+            "name": "Metropolitan Glide",
+            "album": "Real Gone",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "Monkberry Moon Delight - 2012 Remaster",
+            "album": "RAM",
+            "artists": [
+                "Paul McCartney",
+                "Linda McCartney"
+            ]
+        },
+        {
+            "name": "I Bought My Eyes",
+            "album": "Slaughterhouse",
+            "artists": [
+                "Ty Segall Band"
+            ]
+        },
+        {
+            "name": "Wolves, Lower",
+            "album": "Dead Letter Office",
+            "artists": [
+                "R.E.M."
+            ]
+        },
+        {
+            "name": "Tired Of Sex",
+            "album": "Pinkerton",
+            "artists": [
+                "Weezer"
+            ]
+        },
+        {
+            "name": "Time Vampires",
+            "album": "Pattern+Grid World",
+            "artists": [
+                "Flying Lotus"
+            ]
+        },
+        {
+            "name": "Northern Lights",
+            "album": "Strange Mercy",
+            "artists": [
+                "St. Vincent"
+            ]
+        },
+        {
+            "name": "Be Brave",
+            "album": "Be Brave",
+            "artists": [
+                "The Strange Boys"
+            ]
+        },
+        {
+            "name": "Open Your Heart",
+            "album": "Open Your Heart",
+            "artists": [
+                "The Men"
+            ]
+        }
+    ]
+}

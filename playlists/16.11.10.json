@@ -1,0 +1,78 @@
+{
+    "name": "16.11.10",
+    "tracks": [
+        {
+            "name": "Samba de Orfeu",
+            "album": "Solo in Rio 1959",
+            "artists": [
+                "Luiz Bonfá"
+            ]
+        },
+        {
+            "name": "Soon to be Large",
+            "album": "Circa 1990-1993",
+            "artists": [
+                "Charizma",
+                "Peanut Butter Wolf",
+                "Kanpai BMI"
+            ]
+        },
+        {
+            "name": "Out Of Nowhere",
+            "album": "All Star Sessions",
+            "artists": [
+                "Django Reinhardt",
+                "Coleman Hawkins"
+            ]
+        },
+        {
+            "name": "Award Tour",
+            "album": "Midnight Marauders",
+            "artists": [
+                "A Tribe Called Quest"
+            ]
+        },
+        {
+            "name": "St. Louis Blues",
+            "album": "Piano Starts Here",
+            "artists": [
+                "Art Tatum"
+            ]
+        },
+        {
+            "name": "Answers",
+            "album": "Soundpieces: Da Antidote",
+            "artists": [
+                "Lootpack, Quasimoto"
+            ]
+        },
+        {
+            "name": "Mambo Guajiro",
+            "album": "The Best Of Rene Touzet (His Piano and Orchestra)",
+            "artists": [
+                "René Touzet"
+            ]
+        },
+        {
+            "name": "Low Class Conspiracy",
+            "album": "The Unseen",
+            "artists": [
+                "Quasimoto"
+            ]
+        },
+        {
+            "name": "Manoir De Mes Rêves - Instrumental",
+            "album": "Nuages",
+            "artists": [
+                "Django Reinhardt"
+            ]
+        },
+        {
+            "name": "Curls",
+            "album": "Madvillainy",
+            "artists": [
+                "Madvillain"
+            ]
+        }
+    ]
+}

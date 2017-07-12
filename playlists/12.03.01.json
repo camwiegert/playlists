@@ -1,0 +1,75 @@
+{
+    "name": "12.03.01",
+    "tracks": [
+        {
+            "name": "Birdy",
+            "album": "Hypermagic Mountain",
+            "artists": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "name": "Brain Burner",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Shitting With The Shaw",
+            "album": "Leave Home",
+            "artists": [
+                "The Men"
+            ]
+        },
+        {
+            "name": "Atlas",
+            "album": "Mirrored",
+            "artists": [
+                "Battles"
+            ]
+        },
+        {
+            "name": "Pigs",
+            "album": "Pigs",
+            "artists": [
+                "Black Dice"
+            ]
+        },
+        {
+            "name": "Plaster Casts Of Everything",
+            "album": "Liars",
+            "artists": [
+                "Liars"
+            ]
+        },
+        {
+            "name": "Bataille",
+            "album": "Leave Home",
+            "artists": [
+                "The Men"
+            ]
+        },
+        {
+            "name": "Assassins",
+            "album": "Wonderful Rainbow",
+            "artists": [
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "name": "Gum",
+            "album": "Gum",
+            "artists": [
+                "Cornelius"
+            ]
+        },
+        {
+            "name": "I've Still Got You (Ice Cream)",
+            "album": "Hope for Men",
+            "artists": [
+                "Pissed Jeans"
+            ]
+        }
+    ]
+}

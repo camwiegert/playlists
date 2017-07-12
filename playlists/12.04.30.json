@@ -1,0 +1,75 @@
+{
+    "name": "12.04.30",
+    "tracks": [
+        {
+            "name": "Blue Lebaron",
+            "album": "It's Real",
+            "artists": [
+                "Real Estate"
+            ]
+        },
+        {
+            "name": "Gun Street Girl",
+            "album": "Rain Dogs",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "Laughing With a Mouth of Blood",
+            "album": "Actor",
+            "artists": [
+                "St. Vincent"
+            ]
+        },
+        {
+            "name": "Lola",
+            "album": "The Raincoats",
+            "artists": [
+                "The Raincoats"
+            ]
+        },
+        {
+            "name": "Rip It Up",
+            "album": "Rip It Up",
+            "artists": [
+                "Orange Juice"
+            ]
+        },
+        {
+            "name": "Girlfriend",
+            "album": "The Modern Lovers",
+            "artists": [
+                "The Modern Lovers"
+            ]
+        },
+        {
+            "name": "I'm a Cuckoo",
+            "album": "Dear Catastrophe Waitress",
+            "artists": [
+                "Belle & Sebastian"
+            ]
+        },
+        {
+            "name": "Release the Bats",
+            "album": "Hits",
+            "artists": [
+                "The Birthday Party"
+            ]
+        },
+        {
+            "name": "Wawa",
+            "album": "Press Color",
+            "artists": [
+                "Lizzy Mercier Descloux"
+            ]
+        },
+        {
+            "name": "Falling And Laughing",
+            "album": "The Glasgow School",
+            "artists": [
+                "Orange Juice"
+            ]
+        }
+    ]
+}

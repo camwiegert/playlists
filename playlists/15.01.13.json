@@ -1,0 +1,76 @@
+{
+    "name": "15.01.13",
+    "tracks": [
+        {
+            "name": "Crosswords",
+            "album": "Panda Bear Meets The Grim Reaper",
+            "artists": [
+                "Panda Bear"
+            ]
+        },
+        {
+            "name": "Agoraphobia",
+            "album": "Microcastle",
+            "artists": [
+                "Deerhunter"
+            ]
+        },
+        {
+            "name": "Lady Daydream",
+            "album": "Color Your Life",
+            "artists": [
+                "Mr Twin Sister"
+            ]
+        },
+        {
+            "name": "I Follow You",
+            "album": "Melody's Echo Chamber",
+            "artists": [
+                "Melody's Echo Chamber"
+            ]
+        },
+        {
+            "name": "How Can You Really",
+            "album": "…And Star Power",
+            "artists": [
+                "Foxygen"
+            ]
+        },
+        {
+            "name": "Don't Make Me Over",
+            "album": "Don't Make Me Over",
+            "artists": [
+                "Julia Holter"
+            ]
+        },
+        {
+            "name": "Only One",
+            "album": "Only One",
+            "artists": [
+                "Kanye West",
+                "Paul McCartney"
+            ]
+        },
+        {
+            "name": "I Do Too",
+            "album": "Zentropy",
+            "artists": [
+                "Frankie Cosmos"
+            ]
+        },
+        {
+            "name": "Dance For You",
+            "album": "Swing Lo Magellan",
+            "artists": [
+                "Dirty Projectors"
+            ]
+        },
+        {
+            "name": "Matchbook Seeks Maniac",
+            "album": "Friend Opportunity",
+            "artists": [
+                "Deerhoof"
+            ]
+        }
+    ]
+}

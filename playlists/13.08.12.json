@@ -1,0 +1,83 @@
+{
+    "name": "13.08.12",
+    "tracks": [
+        {
+            "name": "I Will",
+            "album": "XXX (Deluxe Edition)",
+            "artists": [
+                "Danny Brown"
+            ]
+        },
+        {
+            "name": "Suddenly",
+            "album": "LONG.LIVE.A$AP (Deluxe Version)",
+            "artists": [
+                "A$AP Rocky"
+            ]
+        },
+        {
+            "name": "I'm In It",
+            "album": "Yeezus",
+            "artists": [
+                "Kanye West"
+            ]
+        },
+        {
+            "name": "Recollections of the wraith",
+            "album": "Black Up",
+            "artists": [
+                "Shabazz Palaces"
+            ]
+        },
+        {
+            "name": "The Cage",
+            "album": "The Money Store",
+            "artists": [
+                "Death Grips"
+            ]
+        },
+        {
+            "name": "Blitz",
+            "album": "The Unseen",
+            "artists": [
+                "Quasimoto"
+            ]
+        },
+        {
+            "name": "LVL",
+            "album": "LONG.LIVE.A$AP (Deluxe Version)",
+            "artists": [
+                "A$AP Rocky"
+            ]
+        },
+        {
+            "name": "Underground Stream",
+            "album": "Electronic Dream",
+            "artists": [
+                "araabMUZIK"
+            ]
+        },
+        {
+            "name": "What You Need",
+            "album": "Trilogy",
+            "artists": [
+                "The Weeknd"
+            ]
+        },
+        {
+            "name": "Give Em Hell",
+            "album": "Albert Einstein",
+            "artists": [
+                "Prodigy & Alchemist"
+            ]
+        },
+        {
+            "name": "Shabba",
+            "album": "Shabba",
+            "artists": [
+                "A$AP Ferg",
+                "A$AP Rocky"
+            ]
+        }
+    ]
+}

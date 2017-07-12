@@ -1,0 +1,75 @@
+{
+    "name": "17.05.30",
+    "tracks": [
+        {
+            "name": "Night Drive",
+            "album": "PDA",
+            "artists": [
+                "Part Time"
+            ]
+        },
+        {
+            "name": "Holding On",
+            "album": "Holding On",
+            "artists": [
+                "The War On Drugs"
+            ]
+        },
+        {
+            "name": "Never Be Mine",
+            "album": "MY WOMAN",
+            "artists": [
+                "Angel Olsen"
+            ]
+        },
+        {
+            "name": "Same Sun",
+            "album": "In Mind",
+            "artists": [
+                "Real Estate"
+            ]
+        },
+        {
+            "name": "Everything Now",
+            "album": "Everything Now",
+            "artists": [
+                "Arcade Fire"
+            ]
+        },
+        {
+            "name": "One Another",
+            "album": "This Old Dog",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "No Coffee",
+            "album": "No Coffee",
+            "artists": [
+                "Amber Coffman"
+            ]
+        },
+        {
+            "name": "Masterpiece",
+            "album": "Masterpiece",
+            "artists": [
+                "Big Thief"
+            ]
+        },
+        {
+            "name": "If I Was A Folkstar",
+            "album": "Wildflower",
+            "artists": [
+                "The Avalanches"
+            ]
+        },
+        {
+            "name": "Wakin on a Pretty Day",
+            "album": "Wakin On A Pretty Daze",
+            "artists": [
+                "Kurt Vile"
+            ]
+        }
+    ]
+}

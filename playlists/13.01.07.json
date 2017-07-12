@@ -1,0 +1,75 @@
+{
+    "name": "13.01.07",
+    "tracks": [
+        {
+            "name": "Baby",
+            "album": "Mature Themes",
+            "artists": [
+                "Ariel Pink"
+            ]
+        },
+        {
+            "name": "Would You?",
+            "album": "Ground Trouble Jaw EP",
+            "artists": [
+                "Richard Swift"
+            ]
+        },
+        {
+            "name": "Reflections After Jane",
+            "album": "Suburban Light",
+            "artists": [
+                "The Clientele"
+            ]
+        },
+        {
+            "name": "True Blue",
+            "album": "Badlands",
+            "artists": [
+                "Dirty Beaches"
+            ]
+        },
+        {
+            "name": "Summertime",
+            "album": "Album",
+            "artists": [
+                "Girls"
+            ]
+        },
+        {
+            "name": "Girlfriend",
+            "album": "The Modern Lovers",
+            "artists": [
+                "The Modern Lovers"
+            ]
+        },
+        {
+            "name": "Satellite of Love",
+            "album": "Transformer",
+            "artists": [
+                "Lou Reed"
+            ]
+        },
+        {
+            "name": "Excuses",
+            "album": "Big Echo",
+            "artists": [
+                "The Morning Benders"
+            ]
+        },
+        {
+            "name": "New York, I Love You But You're Bringing Me Down",
+            "album": "Sound Of Silver",
+            "artists": [
+                "LCD Soundsystem"
+            ]
+        },
+        {
+            "name": "Give You My Lovin",
+            "album": "She Hangs Brightly",
+            "artists": [
+                "Mazzy Star"
+            ]
+        }
+    ]
+}

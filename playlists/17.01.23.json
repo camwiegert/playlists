@@ -1,0 +1,75 @@
+{
+    "name": "17.01.23",
+    "tracks": [
+        {
+            "name": "Mother Invention",
+            "album": "Drug Apts EP",
+            "artists": [
+                "Drug Apts"
+            ]
+        },
+        {
+            "name": "URL IRL",
+            "album": "Come To Life",
+            "artists": [
+                "Cities Aviv"
+            ]
+        },
+        {
+            "name": "This Old Dog",
+            "album": "This Old Dog",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Eraser",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Beg Waves",
+            "album": "Ice Cream Spiritual",
+            "artists": [
+                "Ponytail"
+            ]
+        },
+        {
+            "name": "Year of the Glad",
+            "album": "The Chronicles of Marnia",
+            "artists": [
+                "Marnie Stern"
+            ]
+        },
+        {
+            "name": "Eyesore",
+            "album": "Public Strain",
+            "artists": [
+                "Women"
+            ]
+        },
+        {
+            "name": "Nothing Feels Natural",
+            "album": "Nothing Feels Natural",
+            "artists": [
+                "Priests"
+            ]
+        },
+        {
+            "name": "Attica",
+            "album": "The Natural",
+            "artists": [
+                "KOOL A.D"
+            ]
+        },
+        {
+            "name": "Replica",
+            "album": "Replica",
+            "artists": [
+                "Oneohtrix Point Never"
+            ]
+        }
+    ]
+}

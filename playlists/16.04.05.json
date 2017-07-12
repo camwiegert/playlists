@@ -1,0 +1,69 @@
+{
+    "name": "16.04.05",
+    "tracks": [
+        {
+            "name": "Guttah Guttah",
+            "album": "Devil's Heaven",
+            "artists": [
+                "Dopehead"
+            ]
+        },
+        {
+            "name": "Deadstock",
+            "album": "The Cost of Victory",
+            "artists": [
+                "Vic Spencer"
+            ]
+        },
+        {
+            "name": "Low Lights",
+            "album": "The Life Of Pablo",
+            "artists": [
+                "Kanye West"
+            ]
+        },
+        {
+            "name": "Phantom",
+            "album": "Past Cloaks",
+            "artists": [
+                "Chester Watson"
+            ]
+        },
+        {
+            "name": "Recollections of the wraith",
+            "album": "Black Up",
+            "artists": [
+                "Shabazz Palaces"
+            ]
+        },
+        {
+            "name": "Fade",
+            "album": "The Life Of Pablo",
+            "artists": [
+                "Kanye West"
+            ]
+        },
+        {
+            "name": "Stupid Rose",
+            "album": "Nat Love",
+            "artists": [
+                "Kweku Collins"
+            ]
+        },
+        {
+            "name": "GLOWED UP",
+            "album": "GLOWED UP",
+            "artists": [
+                "KAYTRANADA",
+                "Anderson .Paak"
+            ]
+        },
+        {
+            "name": "untitled 07 | 2014 - 2016",
+            "album": "untitled unmastered.",
+            "artists": [
+                "Kendrick Lamar"
+            ]
+        }
+    ]
+}

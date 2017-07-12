@@ -1,0 +1,68 @@
+{
+    "name": "14.04.02",
+    "tracks": [
+        {
+            "name": "Goodbye Weekend",
+            "album": "Salad Days",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Sunbathing Animal",
+            "album": "Sunbathing Animal",
+            "artists": [
+                "Parquet Courts"
+            ]
+        },
+        {
+            "name": "Big Stars",
+            "album": "Say Yes To Love",
+            "artists": [
+                "Perfect Pussy"
+            ]
+        },
+        {
+            "name": "Salad Days",
+            "album": "Salad Days",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Dust in the Gold Sack",
+            "album": "Surfing Strange",
+            "artists": [
+                "Swearin'"
+            ]
+        },
+        {
+            "name": "Nervous Harvest",
+            "album": "Thee Oh Sees / Total Control - Split",
+            "artists": [
+                "Total Control"
+            ]
+        },
+        {
+            "name": "In Other Words",
+            "album": "Consumer Complaints",
+            "artists": [
+                "Shopping"
+            ]
+        },
+        {
+            "name": "You're a Target",
+            "album": "Losing Feeling",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Forever",
+            "album": "Tweens",
+            "artists": [
+                "Tweens"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "16.04.20",
+    "tracks": [
+        {
+            "name": "AS Crust",
+            "album": "AS",
+            "artists": [
+                "Amnesia Scanner"
+            ]
+        },
+        {
+            "name": "Mulholand Drive",
+            "album": "Rivers Of The Red Planet",
+            "artists": [
+                "Max Graef"
+            ]
+        },
+        {
+            "name": "Interview D",
+            "album": "Interview 2016",
+            "artists": [
+                "Death Grips"
+            ]
+        },
+        {
+            "name": "Swipe Life",
+            "album": "ALWAYS STRIVE AND PROSPER",
+            "artists": [
+                "A$AP Ferg",
+                "Rick Ross"
+            ]
+        },
+        {
+            "name": "Everyday Of My Life (feat. DJ Phil)",
+            "album": "Double Cup",
+            "artists": [
+                "DJ Rashad"
+            ]
+        },
+        {
+            "name": "Kiburu's",
+            "album": "Rojus (Designed To Dance)",
+            "artists": [
+                "Leon Vynehall"
+            ]
+        },
+        {
+            "name": "It Means I Love You",
+            "album": "It Means I Love You",
+            "artists": [
+                "Jessy Lanza"
+            ]
+        },
+        {
+            "name": "Boring Angel",
+            "album": "R Plus Seven",
+            "artists": [
+                "Oneohtrix Point Never"
+            ]
+        }
+    ]
+}

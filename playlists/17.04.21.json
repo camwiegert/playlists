@@ -1,0 +1,76 @@
+{
+    "name": "17.04.21",
+    "tracks": [
+        {
+            "name": "On the Level",
+            "album": "On the Level",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Goodbye Horses",
+            "album": "Goodbye Horses - Single",
+            "artists": [
+                "Q Lazzarus"
+            ]
+        },
+        {
+            "name": "Propaganda",
+            "album": "Other Death",
+            "artists": [
+                "Sean Nicholas Savage"
+            ]
+        },
+        {
+            "name": "The Rip",
+            "album": "Third",
+            "artists": [
+                "Portishead"
+            ]
+        },
+        {
+            "name": "Kathy Lee",
+            "album": "Pull My Hair Back",
+            "artists": [
+                "Jessy Lanza"
+            ]
+        },
+        {
+            "name": "Rewind",
+            "album": "Rewind",
+            "artists": [
+                "Kelela"
+            ]
+        },
+        {
+            "name": "Loops",
+            "album": "The Air Conditioned Nightmare",
+            "artists": [
+                "Doldrums"
+            ]
+        },
+        {
+            "name": "Little Fang",
+            "album": "Enter The Slasher House",
+            "artists": [
+                "Avey Tare's Slasher Flicks",
+                "Avey Tare"
+            ]
+        },
+        {
+            "name": "The Feeling When You Walk Away",
+            "album": "Serpent Music",
+            "artists": [
+                "Yves Tumor"
+            ]
+        },
+        {
+            "name": "True Thrush",
+            "album": "America",
+            "artists": [
+                "Dan Deacon"
+            ]
+        }
+    ]
+}

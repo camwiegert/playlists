@@ -1,0 +1,82 @@
+{
+    "name": "11.10.19",
+    "tracks": [
+        {
+            "name": "Pulling Our Weight",
+            "album": "Pulling Our Weight",
+            "artists": [
+                "The Radio Dept."
+            ]
+        },
+        {
+            "name": "The Next Time Around",
+            "album": "Little Joy",
+            "artists": [
+                "Little Joy"
+            ]
+        },
+        {
+            "name": "Blame It On the Tetons",
+            "album": "Good News For People Who Love Bad News",
+            "artists": [
+                "Modest Mouse"
+            ]
+        },
+        {
+            "name": "Bein' Green",
+            "album": "Muppets: The Green Album",
+            "artists": [
+                "Andrew Bird"
+            ]
+        },
+        {
+            "name": "When You and I Were Young",
+            "album": "The Violet Hour",
+            "artists": [
+                "The Clientele"
+            ]
+        },
+        {
+            "name": "Money",
+            "album": "Portamento (Commentary Version)",
+            "artists": [
+                "The Drums"
+            ]
+        },
+        {
+            "name": "Reunion",
+            "album": "Hurry Up We're Dreaming",
+            "artists": [
+                "M83"
+            ]
+        },
+        {
+            "name": "Losing My Edge",
+            "album": "LCD Soundsystem",
+            "artists": [
+                "LCD Soundsystem"
+            ]
+        },
+        {
+            "name": "Postcards From Italy",
+            "album": "Gulag Orkestar",
+            "artists": [
+                "Beirut"
+            ]
+        },
+        {
+            "name": "Elephant Gun",
+            "album": "Elephant Gun",
+            "artists": [
+                "Beirut"
+            ]
+        },
+        {
+            "name": "Fireworks",
+            "album": "Strawberry Jam",
+            "artists": [
+                "Animal Collective"
+            ]
+        }
+    ]
+}

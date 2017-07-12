@@ -1,0 +1,61 @@
+{
+    "name": "14.12.03",
+    "tracks": [
+        {
+            "name": "Uncast Shadow Of A Southern Myth",
+            "album": "Content Nausea",
+            "artists": [
+                "Parquet Courts"
+            ]
+        },
+        {
+            "name": "In a Jar",
+            "album": "You're Living All Over Me",
+            "artists": [
+                "Dinosaur Jr."
+            ]
+        },
+        {
+            "name": "Summer Babe - Winter Version",
+            "album": "Slanted & Enchanted (Remastered)",
+            "artists": [
+                "Pavement"
+            ]
+        },
+        {
+            "name": "Never Ending Math Equation",
+            "album": "Building Nothing out of Something",
+            "artists": [
+                "Modest Mouse"
+            ]
+        },
+        {
+            "name": "Otitis",
+            "album": "Mourn",
+            "artists": [
+                "Mourn"
+            ]
+        },
+        {
+            "name": "Plowing Into the Field of Love",
+            "album": "Plowing Into the Field of Love",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "Trailer Trash",
+            "album": "The Lonesome Crowded West",
+            "artists": [
+                "Modest Mouse"
+            ]
+        },
+        {
+            "name": "Stereo",
+            "album": "Brighten The Corners",
+            "artists": [
+                "Pavement"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "15.02.12",
+    "tracks": [
+        {
+            "name": "Raising the Skate",
+            "album": "Raising the Skate",
+            "artists": [
+                "Speedy Ortiz"
+            ]
+        },
+        {
+            "name": "Candle",
+            "album": "Daydream Nation (Remastered Original Album)",
+            "artists": [
+                "Sonic Youth"
+            ]
+        },
+        {
+            "name": "When You Sleep",
+            "album": "Loveless",
+            "artists": [
+                "My Bloody Valentine"
+            ]
+        },
+        {
+            "name": "Oh, I'm A Wrecker (What to Say to Crazy People)",
+            "album": "Sea When Absent",
+            "artists": [
+                "A Sunny Day In Glasgow"
+            ]
+        },
+        {
+            "name": "Chem Trails",
+            "album": "Everything in Between",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Basement Scene",
+            "album": "Halcyon Digest",
+            "artists": [
+                "Deerhunter"
+            ]
+        },
+        {
+            "name": "Narrow With The Hall",
+            "album": "Public Strain",
+            "artists": [
+                "Women"
+            ]
+        },
+        {
+            "name": "Summertime",
+            "album": "Album",
+            "artists": [
+                "Girls"
+            ]
+        },
+        {
+            "name": "Silver Soul",
+            "album": "Teen Dream",
+            "artists": [
+                "Beach House"
+            ]
+        },
+        {
+            "name": "Temptation [7\" Version]",
+            "album": "Movement [Collector's Edition]",
+            "artists": [
+                "New Order"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "name": "17.01.10",
+    "tracks": [
+        {
+            "name": "president",
+            "album": "Nice Try",
+            "artists": [
+                "Nice Try"
+            ]
+        },
+        {
+            "name": "Reservoir",
+            "album": "Reservoir",
+            "artists": [
+                "Warehouse"
+            ]
+        },
+        {
+            "name": "Always",
+            "album": "Ladybird",
+            "artists": [
+                "Doug Bleichner"
+            ]
+        },
+        {
+            "name": "Slow Motion",
+            "album": "Slow Motion",
+            "artists": [
+                "Stef Chura"
+            ]
+        },
+        {
+            "name": "First Love / Late Spring",
+            "album": "Bury Me At Makeout Creek",
+            "artists": [
+                "Mitski"
+            ]
+        },
+        {
+            "name": "Greatest City In The World",
+            "album": "Split Dicks",
+            "artists": [
+                "Two Inch Astronaut"
+            ]
+        },
+        {
+            "name": "Buses Splash With Rain",
+            "album": "Zentropy",
+            "artists": [
+                "Frankie Cosmos"
+            ]
+        },
+        {
+            "name": "The Video Dept",
+            "album": "Clinging To A Scheme",
+            "artists": [
+                "The Radio Dept."
+            ]
+        },
+        {
+            "name": "That Kind of Girl",
+            "album": "Kicking Every Day",
+            "artists": [
+                "All Dogs"
+            ]
+        },
+        {
+            "name": "Had Ten Dollaz",
+            "album": "Had Ten Dollaz",
+            "artists": [
+                "Cherry Glazerr"
+            ]
+        },
+        {
+            "name": "Go Away",
+            "album": "Tender Opposites",
+            "artists": [
+                "TOPS"
+            ]
+        },
+        {
+            "name": "Mattress",
+            "album": "One Foot in the Grave (Deluxe Reissue)",
+            "artists": [
+                "Beck"
+            ]
+        },
+        {
+            "name": "Sleeper Hold",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Purity of Heart",
+            "album": "Lucky Leaves",
+            "artists": [
+                "Krill"
+            ]
+        },
+        {
+            "name": "Lust For Life",
+            "album": "Album",
+            "artists": [
+                "Girls"
+            ]
+        }
+    ]
+}

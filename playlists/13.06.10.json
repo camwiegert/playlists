@@ -1,0 +1,75 @@
+{
+    "name": "13.06.10",
+    "tracks": [
+        {
+            "name": "Tonight",
+            "album": "Since I Left You",
+            "artists": [
+                "The Avalanches"
+            ]
+        },
+        {
+            "name": "Monad",
+            "album": "Overgrown Path",
+            "artists": [
+                "chris cohen"
+            ]
+        },
+        {
+            "name": "all the flowers",
+            "album": "Ambivalence Avenue",
+            "artists": [
+                "Bibio"
+            ]
+        },
+        {
+            "name": "Hamilton Road",
+            "album": "Ducktails III: Arcade Dynamics",
+            "artists": [
+                "Ducktails"
+            ]
+        },
+        {
+            "name": "The Video Dept",
+            "album": "Clinging To A Scheme",
+            "artists": [
+                "The Radio Dept."
+            ]
+        },
+        {
+            "name": "Baby",
+            "album": "Mature Themes",
+            "artists": [
+                "Ariel Pink"
+            ]
+        },
+        {
+            "name": "Blue Lebaron",
+            "album": "It's Real",
+            "artists": [
+                "Real Estate"
+            ]
+        },
+        {
+            "name": "Money",
+            "album": "Portamento",
+            "artists": [
+                "The Drums"
+            ]
+        },
+        {
+            "name": "Careless",
+            "album": "Careless",
+            "artists": [
+                "Beach Fossils"
+            ]
+        },
+        {
+            "name": "Thousand Year Old Child",
+            "album": "Crawling Up the Stairs",
+            "artists": [
+                "Pure X"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "12.06.01",
+    "tracks": [
+        {
+            "name": "I Fink U Freeky",
+            "album": "Ten$ion",
+            "artists": [
+                "Die Antwoord"
+            ]
+        },
+        {
+            "name": "Knuckle Down",
+            "album": "Life Fantastic",
+            "artists": [
+                "Man Man"
+            ]
+        },
+        {
+            "name": "Shake It",
+            "album": "Real Gone",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "212",
+            "album": "1991 EP",
+            "artists": [
+                "Azealia Banks",
+                "Lazy Jay"
+            ]
+        },
+        {
+            "name": "Lie To Me",
+            "album": "Orphans",
+            "artists": [
+                "Tom Waits"
+            ]
+        },
+        {
+            "name": "Goldie",
+            "album": "Goldie",
+            "artists": [
+                "A$AP Rocky"
+            ]
+        },
+        {
+            "name": "China Girl",
+            "album": "The Idiot",
+            "artists": [
+                "Iggy Pop"
+            ]
+        },
+        {
+            "name": "+81",
+            "album": "Friend Opportunity",
+            "artists": [
+                "Deerhoof"
+            ]
+        }
+    ]
+}

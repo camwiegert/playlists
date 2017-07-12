@@ -1,0 +1,54 @@
+{
+    "name": "14.11.18",
+    "tracks": [
+        {
+            "name": "Erk",
+            "album": "Beats By Gobby",
+            "artists": [
+                "Gobby"
+            ]
+        },
+        {
+            "name": "Slit Thru",
+            "album": "Xen",
+            "artists": [
+                "Arca"
+            ]
+        },
+        {
+            "name": "Our Love",
+            "album": "Our Love",
+            "artists": [
+                "Caribou"
+            ]
+        },
+        {
+            "name": "Strange Emotion",
+            "album": "Pull My Hair Back",
+            "artists": [
+                "Jessy Lanza"
+            ]
+        },
+        {
+            "name": "It's Time",
+            "album": "With Love",
+            "artists": [
+                "Zomby"
+            ]
+        },
+        {
+            "name": "Lockjaw",
+            "album": "Soul Music",
+            "artists": [
+                "Special Request"
+            ]
+        },
+        {
+            "name": "Ratchet",
+            "album": "Flatland",
+            "artists": [
+                "Objekt"
+            ]
+        }
+    ]
+}

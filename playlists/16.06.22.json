@@ -1,0 +1,64 @@
+{
+    "name": "16.06.22",
+    "tracks": [
+        {
+            "name": "Girls @ (feat. Chance the Rapper)",
+            "album": "Girls @ (feat. Chance the Rapper)",
+            "artists": [
+                "Joey Purp",
+                "Chance The Rapper"
+            ]
+        },
+        {
+            "name": "Melanin Drop",
+            "album": "Melanin Drop",
+            "artists": [
+                "Cities Aviv"
+            ]
+        },
+        {
+            "name": "Neva CHange",
+            "album": "Blank Face LP",
+            "artists": [
+                "ScHoolboy Q",
+                "SZA"
+            ]
+        },
+        {
+            "name": "Blue Suede",
+            "album": "Hell Can Wait",
+            "artists": [
+                "Vince Staples"
+            ]
+        },
+        {
+            "name": "Lockjaw",
+            "album": "Lockjaw",
+            "artists": [
+                "French Montana",
+                "Kodak Black"
+            ]
+        },
+        {
+            "name": "When It Rain",
+            "album": "When It Rain",
+            "artists": [
+                "Danny Brown"
+            ]
+        },
+        {
+            "name": "New Slaves",
+            "album": "Yeezus",
+            "artists": [
+                "Kanye West"
+            ]
+        },
+        {
+            "name": "Eh",
+            "album": "Bottomless Pit",
+            "artists": [
+                "Death Grips"
+            ]
+        }
+    ]
+}

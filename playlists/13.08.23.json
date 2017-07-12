@@ -1,0 +1,61 @@
+{
+    "name": "13.08.23",
+    "tracks": [
+        {
+            "name": "Maxim's I",
+            "album": "Loud City Song",
+            "artists": [
+                "Julia Holter"
+            ]
+        },
+        {
+            "name": "Sleeper Hold",
+            "album": "Nouns",
+            "artists": [
+                "No Age"
+            ]
+        },
+        {
+            "name": "Loomer",
+            "album": "Loveless",
+            "artists": [
+                "My Bloody Valentine"
+            ]
+        },
+        {
+            "name": "Recent Bedroom",
+            "album": "Let the Blind Lead Those Who Can See But Cannot Feel",
+            "artists": [
+                "Atlas Sound"
+            ]
+        },
+        {
+            "name": "Lunar Phobia",
+            "album": "Wait To Pleasure",
+            "artists": [
+                "No Joy"
+            ]
+        },
+        {
+            "name": "Echo's Answer",
+            "album": "The Noise Made By People",
+            "artists": [
+                "Broadcast"
+            ]
+        },
+        {
+            "name": "Carios kelleyi I",
+            "album": "Lines",
+            "artists": [
+                "Julian Lynch"
+            ]
+        },
+        {
+            "name": "Golden Arrow",
+            "album": "Golden Arrow",
+            "artists": [
+                "Darkside"
+            ]
+        }
+    ]
+}

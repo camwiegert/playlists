@@ -1,0 +1,99 @@
+{
+    "name": "12.12.12",
+    "tracks": [
+        {
+            "name": "Bullet With Butterfly Wings",
+            "album": "Mellon Collie And The Infinite Sadness",
+            "artists": [
+                "The Smashing Pumpkins"
+            ]
+        },
+        {
+            "name": "The Stars Keep On Calling My Name",
+            "album": "2",
+            "artists": [
+                "Mac Demarco"
+            ]
+        },
+        {
+            "name": "Use It",
+            "album": "Twin Cinema",
+            "artists": [
+                "The New Pornographers"
+            ]
+        },
+        {
+            "name": "Savage Night at the Opera",
+            "album": "Kaputt",
+            "artists": [
+                "Destroyer"
+            ]
+        },
+        {
+            "name": "Red Right Hand - 2011 - Remaster",
+            "album": "Let Love In (2011 - Remaster)",
+            "artists": [
+                "Nick Cave & The Bad Seeds"
+            ]
+        },
+        {
+            "name": "Boys Don't Cry [Single Version]",
+            "album": "Three Imaginary Boys [Deluxe Edition]",
+            "artists": [
+                "The Cure"
+            ]
+        },
+        {
+            "name": "Apache",
+            "album": "Milky Way",
+            "artists": [
+                "Danger Beach"
+            ]
+        },
+        {
+            "name": "Heart Of The Country - Remastered 2012",
+            "album": "RAM",
+            "artists": [
+                "Paul McCartney",
+                "Linda McCartney"
+            ]
+        },
+        {
+            "name": "Ginza Samba",
+            "album": "From All Sides (Remastered)",
+            "artists": [
+                "Vince Guaraldi",
+                "Bola Sete"
+            ]
+        },
+        {
+            "name": "Heartbreaker",
+            "album": "Broken Dreams Club",
+            "artists": [
+                "Girls"
+            ]
+        },
+        {
+            "name": "I Want To",
+            "album": "Crazy For You",
+            "artists": [
+                "Best Coast"
+            ]
+        },
+        {
+            "name": "m.A.A.d city",
+            "album": "good kid, m.A.A.d city (Deluxe)",
+            "artists": [
+                "Kendrick Lamar",
+                "MC Eiht"
+            ]
+        },
+        {
+            "name": "Over And Over",
+            "album": "The Warning",
+            "artists": [
+                "Hot Chip"
+            ]
+        }
+    ]
+}

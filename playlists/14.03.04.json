@@ -1,0 +1,68 @@
+{
+    "name": "14.03.04",
+    "tracks": [
+        {
+            "name": "Leonie",
+            "album": "Zentropy",
+            "artists": [
+                "Frankie Cosmos"
+            ]
+        },
+        {
+            "name": "Crime",
+            "album": "Atlas",
+            "artists": [
+                "Real Estate"
+            ]
+        },
+        {
+            "name": "Range Life",
+            "album": "Crooked Rain, Crooked Rain",
+            "artists": [
+                "Pavement"
+            ]
+        },
+        {
+            "name": "Stars",
+            "album": "Burn Your Fire For No Witness",
+            "artists": [
+                "Angel Olsen"
+            ]
+        },
+        {
+            "name": "Different Days",
+            "album": "Tomorrow's Hits",
+            "artists": [
+                "The Men"
+            ]
+        },
+        {
+            "name": "Canned Tomatoes (Whole)",
+            "album": "The Double Ep: A Sea of Split Peas",
+            "artists": [
+                "Courtney Barnett"
+            ]
+        },
+        {
+            "name": "Interesting Thing No. 2",
+            "album": "Soft Opening",
+            "artists": [
+                "Posse"
+            ]
+        },
+        {
+            "name": "Sisters",
+            "album": "Mug Museum",
+            "artists": [
+                "Cate le Bon"
+            ]
+        },
+        {
+            "name": "Simple and Sure",
+            "album": "Simple and Sure",
+            "artists": [
+                "The Pains Of Being Pure At Heart"
+            ]
+        }
+    ]
+}

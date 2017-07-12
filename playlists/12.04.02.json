@@ -1,0 +1,110 @@
+{
+    "name": "12.04.02",
+    "tracks": [
+        {
+            "name": "Hope",
+            "album": "Milo Goes To College",
+            "artists": [
+                "Descendents"
+            ]
+        },
+        {
+            "name": "Broken Bone",
+            "album": "New Brigade",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "All Things This Way",
+            "album": "Nothing Hurts",
+            "artists": [
+                "Male Bonding"
+            ]
+        },
+        {
+            "name": "Upside Down",
+            "album": "First Four EPs",
+            "artists": [
+                "OFF!"
+            ]
+        },
+        {
+            "name": "Tired Of Sex",
+            "album": "Pinkerton - Deluxe Edition",
+            "artists": [
+                "Weezer"
+            ]
+        },
+        {
+            "name": "Myage",
+            "album": "Milo Goes To College",
+            "artists": [
+                "Descendents"
+            ]
+        },
+        {
+            "name": "Seems to Notice Now",
+            "album": "Endless Now",
+            "artists": [
+                "Male Bonding"
+            ]
+        },
+        {
+            "name": "Agile, Mobile And Hostile",
+            "album": "Silky",
+            "artists": [
+                "Andre Williams"
+            ]
+        },
+        {
+            "name": "Remember",
+            "album": "New Brigade",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "Nervous Breakdown",
+            "album": "Nervous Breakdown",
+            "artists": [
+                "Black Flag"
+            ]
+        },
+        {
+            "name": "White Rune",
+            "album": "New Brigade",
+            "artists": [
+                "iceage"
+            ]
+        },
+        {
+            "name": "Night Landing",
+            "album": "Leave Home",
+            "artists": [
+                "The Men"
+            ]
+        },
+        {
+            "name": "Tame The Sun",
+            "album": "Endless Now",
+            "artists": [
+                "Male Bonding"
+            ]
+        },
+        {
+            "name": "Gold Soundz",
+            "album": "Crooked Rain, Crooked Rain: LA’s Desert Origins",
+            "artists": [
+                "Pavement"
+            ]
+        },
+        {
+            "name": "Only Shallow",
+            "album": "Loveless",
+            "artists": [
+                "My Bloody Valentine"
+            ]
+        }
+    ]
+}

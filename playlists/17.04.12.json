@@ -1,0 +1,89 @@
+{
+    "name": "17.04.12",
+    "tracks": [
+        {
+            "name": "Hong Kong Garden",
+            "album": "The Scream (Remastered & Expanded)",
+            "artists": [
+                "Siouxsie and the Banshees"
+            ]
+        },
+        {
+            "name": "Bizarre Love Triangle",
+            "album": "Brotherhood [Collector's Edition]",
+            "artists": [
+                "New Order"
+            ]
+        },
+        {
+            "name": "In a mess",
+            "album": "Liliput",
+            "artists": [
+                "Kleenex"
+            ]
+        },
+        {
+            "name": "I Should Have Known Better - Remastered",
+            "album": "A Hard Day's Night (Remastered)",
+            "artists": [
+                "The Beatles"
+            ]
+        },
+        {
+            "name": "It's A Shame - Remastered",
+            "album": "Definitive Soul: Spinners",
+            "artists": [
+                "The Spinners"
+            ]
+        },
+        {
+            "name": "Do Anything You Wanna Do",
+            "album": "Do Anything You Wanna Do: The Best Of",
+            "artists": [
+                "Eddie & The Hot Rods"
+            ]
+        },
+        {
+            "name": "Girlfriend",
+            "album": "The Modern Lovers",
+            "artists": [
+                "The Modern Lovers"
+            ]
+        },
+        {
+            "name": "Made Up In Blue",
+            "album": "Daddy's Highway",
+            "artists": [
+                "The Bats"
+            ]
+        },
+        {
+            "name": "Teenage Caveman",
+            "album": "You Turn Me On",
+            "artists": [
+                "Beat Happening"
+            ]
+        },
+        {
+            "name": "Put Some Sugar On It",
+            "album": "Greatest Hits",
+            "artists": [
+                "Half Japanese"
+            ]
+        },
+        {
+            "name": "You Never Should",
+            "album": "Isn't Anything",
+            "artists": [
+                "My Bloody Valentine"
+            ]
+        },
+        {
+            "name": "Slack Motherfucker",
+            "album": "Superchunk",
+            "artists": [
+                "Superchunk"
+            ]
+        }
+    ]
+}

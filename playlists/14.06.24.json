@@ -1,0 +1,61 @@
+{
+    "name": "14.06.24",
+    "tracks": [
+        {
+            "name": "In Love With Useless (The Timeless Geometry in the Tradition of Passing)",
+            "album": "Sea When Absent",
+            "artists": [
+                "A Sunny Day In Glasgow"
+            ]
+        },
+        {
+            "name": "Feels Like We Only Go Backwards",
+            "album": "Lonerism",
+            "artists": [
+                "Tame Impala"
+            ]
+        },
+        {
+            "name": "You Never Should",
+            "album": "Isn't Anything",
+            "artists": [
+                "My Bloody Valentine"
+            ]
+        },
+        {
+            "name": "Heaven's On Fire",
+            "album": "Clinging To A Scheme",
+            "artists": [
+                "The Radio Dept."
+            ]
+        },
+        {
+            "name": "KC Accidental",
+            "album": "You Forgot it in People",
+            "artists": [
+                "Broken Social Scene"
+            ]
+        },
+        {
+            "name": "Dear Prudence",
+            "album": "Twice Upon A Time / The Singles",
+            "artists": [
+                "Siouxsie and the Banshees"
+            ]
+        },
+        {
+            "name": "Sometimes Always",
+            "album": "Stoned And Dethroned",
+            "artists": [
+                "The Jesus and Mary Chain"
+            ]
+        },
+        {
+            "name": "Paddle Forward",
+            "album": "Fade",
+            "artists": [
+                "Yo La Tengo"
+            ]
+        }
+    ]
+}
