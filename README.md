@@ -25,7 +25,7 @@ You'll need to provide three environment variables. You can either pass them dir
 
 ## Output
 
-Each playlist will be a JSON file in `playlists/`, named with the pattern `[title].json`. The Spotify API is rate limited. So, depending on how many playlists you have, it might take a second.
+Each playlist will be a JSON file in `playlists/`, named with the pattern `[slugified-title].json`. The Spotify API is rate limited. So, depending on how many playlists you have, it might take a second.
 
 ```
 {

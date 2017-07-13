@@ -3,6 +3,7 @@ require('dotenv').config();
 const fs = require('fs');
 const qs = require('querystring');
 const path = require('path');
+const slug = require('slug');
 const chalk = require('chalk');
 const rimraf = require('rimraf');
 const request = require('axios').create({
@@ -114,10 +115,15 @@ function normalizePlaylistName(name) {
 }
 
 
+const slugOptions = {
+  lower: true,
+  mode: 'rfc3986'
+};
+
 function writePlaylistFile(playlist) {
   const filename = normalizePlaylistName(playlist.name);
   fs.writeFile(
-    path.resolve(`./playlists/${filename}.json`),
+    path.resolve(`./playlists/${slug(filename, slugOptions)}.json`),
     JSON.stringify(playlist, null, 4),
     err => report(err, `✔ ${playlist.name}`)
   );
