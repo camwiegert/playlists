@@ -1,0 +1,84 @@
+{
+    "name": "18.01.03",
+    "tracks": [
+        {
+            "name": "Luxury Vacuum",
+            "album": "Laughing At The System",
+            "artists": [
+                "Total Control"
+            ]
+        },
+        {
+            "name": "Hug Of Thunder",
+            "album": "Hug Of Thunder",
+            "artists": [
+                "Broken Social Scene"
+            ]
+        },
+        {
+            "name": "The One to Wait",
+            "album": "CCFX EP",
+            "artists": [
+                "CCFX"
+            ]
+        },
+        {
+            "name": "Star Roving",
+            "album": "Slowdive",
+            "artists": [
+                "Slowdive"
+            ]
+        },
+        {
+            "name": "Country",
+            "album": "Country",
+            "artists": [
+                "Porches"
+            ]
+        },
+        {
+            "name": "North Circular",
+            "album": "Real Life",
+            "artists": [
+                "Real Lies"
+            ]
+        },
+        {
+            "name": "Out Of My Head (feat. Tove Lo and ALMA)",
+            "album": "Pop 2",
+            "artists": [
+                "Charli XCX",
+                "Tove Lo",
+                "ALMA"
+            ]
+        },
+        {
+            "name": "Pain",
+            "album": "A Deeper Understanding",
+            "artists": [
+                "The War On Drugs"
+            ]
+        },
+        {
+            "name": "Four Years and One Day",
+            "album": "Love What Survives",
+            "artists": [
+                "Mount Kimbie"
+            ]
+        },
+        {
+            "name": "It Gets More Blue",
+            "album": "Powerplant",
+            "artists": [
+                "Girlpool"
+            ]
+        },
+        {
+            "name": "The Bus Song",
+            "album": "Everybody Works",
+            "artists": [
+                "Jay Som"
+            ]
+        }
+    ]
+}
