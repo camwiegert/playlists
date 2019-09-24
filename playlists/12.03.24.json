@@ -2,8 +2,8 @@
     "name": "12.03.24",
     "tracks": [
         {
-            "name": "Last Train To Clarksville",
-            "album": "The Best Of The Monkees (US Release)",
+            "name": "Last Train to Clarksville",
+            "album": "The Best Of The Monkees",
             "artists": [
                 "The Monkees"
             ]
@@ -107,9 +107,12 @@
             ]
         },
         {
-            "name": "Kryptonite - feat. Big Boi",
+            "name": "Kryptonite",
             "album": "Big Boi Presents... Got Purp? Vol. 2",
             "artists": [
+                "Killer Mike",
+                "Blackowned C-Bone",
+                "Rock D The Legend",
                 "Big Boi"
             ]
         }

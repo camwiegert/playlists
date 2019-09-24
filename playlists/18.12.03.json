@@ -1,0 +1,75 @@
+{
+    "name": "18.12.03",
+    "tracks": [
+        {
+            "name": "I Know What It's Like",
+            "album": "WARM",
+            "artists": [
+                "Jeff Tweedy"
+            ]
+        },
+        {
+            "name": "Lonesome Love",
+            "album": "Be the Cowboy",
+            "artists": [
+                "Mitski"
+            ]
+        },
+        {
+            "name": "Rat of the City",
+            "album": "No Dogs Allowed",
+            "artists": [
+                "Sidney Gish"
+            ]
+        },
+        {
+            "name": "Sandusky",
+            "album": "March 16-20, 1992",
+            "artists": [
+                "Uncle Tupelo"
+            ]
+        },
+        {
+            "name": "Kaputt",
+            "album": "Kaputt",
+            "artists": [
+                "Destroyer"
+            ]
+        },
+        {
+            "name": "Freedom",
+            "album": "Freedom",
+            "artists": [
+                "Amen Dunes"
+            ]
+        },
+        {
+            "name": "Kingston",
+            "album": "Kingston",
+            "artists": [
+                "Faye Webster"
+            ]
+        },
+        {
+            "name": "One Trick Ponies",
+            "album": "Bottle It In",
+            "artists": [
+                "Kurt Vile"
+            ]
+        },
+        {
+            "name": "From Here",
+            "album": "Thx",
+            "artists": [
+                "Lomelda"
+            ]
+        },
+        {
+            "name": "Shark Smile",
+            "album": "Capacity",
+            "artists": [
+                "Big Thief"
+            ]
+        }
+    ]
+}

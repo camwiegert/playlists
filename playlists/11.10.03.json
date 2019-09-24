@@ -33,21 +33,23 @@
             ]
         },
         {
-            "name": "...And The World Laughs With You ft. Thom Yorke",
+            "name": "...And The World Laughs With You",
             "album": "Cosmogramma",
             "artists": [
-                "Flying Lotus"
+                "Flying Lotus",
+                "Thom Yorke"
             ]
         },
         {
-            "name": "Roberta Flack",
+            "name": "RobertaFlack",
             "album": "Los Angeles",
             "artists": [
-                "Flying Lotus"
+                "Flying Lotus",
+                "Ahu"
             ]
         },
         {
-            "name": "Breathe Something / Stellar Star",
+            "name": "Breathe . Something/Stellar STar",
             "album": "Los Angeles",
             "artists": [
                 "Flying Lotus"

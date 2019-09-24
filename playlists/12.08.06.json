@@ -31,10 +31,11 @@
             ]
         },
         {
-            "name": "Roberta Flack",
+            "name": "RobertaFlack",
             "album": "Los Angeles",
             "artists": [
-                "Flying Lotus"
+                "Flying Lotus",
+                "Ahu"
             ]
         },
         {
