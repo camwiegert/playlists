@@ -37,7 +37,7 @@ const auth = () => request({
     'grant_type': 'client_credentials'
   }),
   headers: {
-    'Authorization': `Basic ${new Buffer(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')}`
+    'Authorization': `Basic ${Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString('base64')}`
   }
 }).then(res => ({
   'Authorization': `Bearer ${res.data.access_token}`
