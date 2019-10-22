@@ -35,7 +35,7 @@ You'll need to provide three environment variables:
 
 ## Output
 
-The playlist data will be output as JSON at the provided path. The Spotify API is rate limited. So, depending on how many playlists you have, it might take a second.
+The playlist data will be output as JSON at the provided path. The Spotify API is rate limited, so it might take a second if you have a lot of playlists.
 
 ```
 {
