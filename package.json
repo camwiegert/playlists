@@ -1,15 +1,12 @@
 {
-  "name": "spotify-playlist-archiver",
-  "version": "1.0.0",
+  "name": "spotify-playlist-archive",
+  "version": "2.0.0",
   "private": true,
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
-    "axios": "^0.19.0",
-    "chalk": "^2.0.1",
-    "dotenv": "^4.0.0",
-    "rimraf": "^2.6.1",
-    "slug": "^0.9.4"
+    "esm": "^3.2.25",
+    "fs-extra": "^8.1.0",
+    "meow": "^5.0.0",
+    "node-fetch": "^2.6.0",
+    "ora": "^4.0.2"
   }
 }
