@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('esm')(module)('../cli.js');
+require('esm')(module)('../lib/cli.js');
