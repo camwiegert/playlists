@@ -46,7 +46,7 @@ The playlist data will be output as JSON at the provided path. The Spotify API i
             "name": "Sick Jamz",
             "tracks": [
                 {
-                    "name": "Not",
+                    "title": "Not",
                     "album": "Two Hands",
                     "artists": [
                         "Big Thief"
