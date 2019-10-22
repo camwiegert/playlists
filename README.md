@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [Spotify API client credentials](https://developer.spotify.com/my-applications)
+- [Spotify API client credentials](https://developer.spotify.com/dashboard/)
 - Spotify username
 - Node 8+
 
