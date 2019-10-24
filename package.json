@@ -2,6 +2,7 @@
   "name": "spotify-playlist-archive",
   "version": "2.0.0",
   "private": true,
+  "bin": "bin/index.js",
   "dependencies": {
     "esm": "^3.2.25",
     "fs-extra": "^8.1.0",
